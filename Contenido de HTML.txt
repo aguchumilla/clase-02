@@ -1,0 +1,26 @@
+Introducción a las tecnologías de la web (conceptos cómo internet, web, página, sitio, cliente/servidor, ) 
+Conceptos de Internet
+Páginas Web
+HTML
+Etiquetas básicas y de atributos. 
+Etiquetas obsoletas pero aún funcionales.
+Title 
+negrita – italica – subrayado 
+colores de letra
+tipo y tamaño
+span 
+BR
+Etiquetas de y para textos (em, strong, b, i).
+El estandar W3C.
+Hipervínculos 
+Elementos Block (tabla )  e Inline ( span)  -
+Listas (ul – lo)
+Tablas (table - tr - td - th) 
+Rutas: absolutas y relativas
+Insertar video de forma local
+Iframe (ejemplo Google Maps)
+Formularios: 
+
+Form - input (text - email - password - submit - check - radio) 
+textarea - button - label - Select / option )
+Manejo de imágenes. image src / icono favicon.
